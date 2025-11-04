@@ -1,2 +1,2 @@
-# alx--intermediate-frontend
+# alx-intermediate-frontend
 alx app development
